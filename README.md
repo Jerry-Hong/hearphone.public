@@ -19,18 +19,18 @@
 
 ## 計畫
  
-- [ ] 首頁 (Homepage)
-- [ ] 耳機查詢系統 (Headphones Dictionary)
+- [ ] 首頁 (Homepage) 🧑‍💻
+- [ ] 耳機查詢系統 (Headphones Dictionary) 🧑‍💻
   - [ ] 透過品牌 (By Brand)
   - [ ] 透過產品名稱 (By Product Name)
   - [ ] 透過價格區間 (By Price Range)
-- [ ] 單一耳機介紹頁 (Headphone)
+- [ ] 單一耳機介紹頁 (Headphone) 🧑‍💻
   - [ ] 產品名稱 (Name)
   - [ ] 產品價格 (Price)
   - [ ] 所屬品牌 (Brand)
   - [ ] 產品簡介 (Description)
   - [ ] 產品照片 (Image)
-  - [ ] 可試聽地點 (仍須規劃)
-  - [ ] 相關評論 (仍須規劃)
+  - [ ] 可試聽地點 (仍須規劃 🔖)
+  - [ ] 相關評論 (仍須規劃 🔖)
 - [ ] 耳機提交頁 (Report Headphone)
 - [ ] 問答集頁 (FAQ)
