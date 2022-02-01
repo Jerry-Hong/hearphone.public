@@ -19,27 +19,27 @@
 
 ## 計畫
  
-- [ ] 首頁 (Homepage) 🧑‍💻
-- [ ] 耳機查詢系統 (Headphones Dictionary) 🧑‍💻
-  - [ ] 透過品牌 (By Brand)
-  - [ ] 透過產品名稱 (By Product Name)
-  - [ ] 透過價格區間 (By Price Range)
+- [x] 首頁 (Homepage) 🧑‍💻
+- [x] 耳機查詢系統 (Headphones Dictionary) 🧑‍💻
+  - [x] 透過品牌 (By Brand)
+  - [x] 透過產品名稱 (By Product Name)
+  - [x] 透過價格區間 (By Price Range)
   - [ ] 透過重量 (By Weight, 仍須規劃 🔖)
   - [ ] 透過響應頻率 (By Frequency Response, 仍須規劃 🔖)
   - [ ] 透過電阻 (By Impedance, 仍須規劃 🔖)
   - [ ] 透過靈敏度 (By Sensitivity, 仍須規劃 🔖)
   - [ ] 透過發聲原理 (By Transducer, 仍須規劃 🔖)
 - [ ] 單一耳機介紹頁 (Headphone) 🧑‍💻
-  - [ ] 產品名稱 (Name)
-  - [ ] 產品價格 (Price)
-  - [ ] 所屬品牌 (Brand)
+  - [x] 產品名稱 (Name)
+  - [x] 產品價格 (Price)
+  - [x] 所屬品牌 (Brand)
   - [ ] 產品簡介 (Description)
   - [ ] 產品照片 (Image)
-  - [ ] 重量 (By Weight)
-  - [ ] 響應頻率 (By Frequency Response)
-  - [ ] 電阻 (By Impedance)
-  - [ ] 靈敏度 (By Sensitivity)
-  - [ ] 發聲原理 (By Transducer)
+  - [x] 重量 (By Weight)
+  - [x] 響應頻率 (By Frequency Response)
+  - [x] 電阻 (By Impedance)
+  - [x] 靈敏度 (By Sensitivity)
+  - [x] 發聲原理 (By Transducer)
   - [ ] 可試聽地點 (仍須規劃 🔖)
   - [ ] 相關評論 (仍須規劃 🔖)
 - [ ] 耳機提交頁 (Report Headphone)
