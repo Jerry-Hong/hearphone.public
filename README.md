@@ -7,13 +7,13 @@
 2. 本站的資金來源為何？
   > 目前完全依賴作者的一股熱血維持，但本站的資料庫(database)、伺服器(server)及網域(domain)每個月都需要開銷，隨著使用人數變多成本也會更高。
   > 
-  > 發燒友如有願意贊助本站這裡請，先感謝各位大大了！ 🙏
+  > 發燒友如有願意贊助本站[這裡]()請，先感謝各位大大了！ 🙏
   > 
   > 隨著本站的使用者成長，未來不排除開發非干擾式的廣告位或是收費的二手快報等功能，希望能讓網站的收支平衡。
-3. 發現了錯誤 (ug) 或是有其他想法 (idea) 要怎麼回報？
-  > 請點擊[這裡](https://github.com/Jerry-Hong/hearphone.public)回報
+3. 發現了錯誤 (bug) 或是有其他想法 (idea) 要怎麼回報？
+  > 請點擊[這裡](https://github.com/Jerry-Hong/hearphone.public/issues/new/choose)回報
 4. 為什麼找不到自己想找的耳機？
-  > 目前本站的耳機資訊仍需要時間補足，歡迎透過此[連結](https://hearphone.app/report)提交
+  > 目前本站的耳機資訊仍需要時間補足，歡迎透過此[連結](https://github.com/Jerry-Hong/hearphone.public/issues/new?assignees=Jerry-Hong&labels=%E6%8F%90%E4%BA%A4%E8%80%B3%E6%A9%9F&template=----.md&title=Sennheiser+-+HD+800+S)提交
 5. 為什麼提交了耳機還是找不到剛提交的耳機？
   > 為了維持本站的品質，所有提交的耳機資訊，站方會先進行審核，避免有重複或錯假的資訊，同時確保資訊的完整性，以及正確的排版。
 
