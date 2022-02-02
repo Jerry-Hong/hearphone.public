@@ -29,12 +29,12 @@
   - [ ] 透過電阻 (By Impedance, 仍須規劃 🔖)
   - [ ] 透過靈敏度 (By Sensitivity, 仍須規劃 🔖)
   - [ ] 透過發聲原理 (By Transducer, 仍須規劃 🔖)
-- [ ] 單一耳機介紹頁 (Headphone) 🧑‍💻
+- [x] 單一耳機介紹頁 (Headphone) 🧑‍💻
   - [x] 產品名稱 (Name)
   - [x] 產品價格 (Price)
   - [x] 所屬品牌 (Brand)
-  - [ ] 產品簡介 (Description)
-  - [ ] 產品照片 (Image)
+  - [x] 產品簡介 (Description)
+  - [x] 產品照片 (Image)
   - [x] 重量 (By Weight)
   - [x] 響應頻率 (By Frequency Response)
   - [x] 電阻 (By Impedance)
@@ -42,4 +42,4 @@
   - [x] 發聲原理 (By Transducer)
   - [ ] 可試聽地點 (仍須規劃 🔖)
   - [ ] 相關評論 (仍須規劃 🔖)
-- [ ] 問答集頁 (FAQ)
+- [x] 問答集頁 (FAQ)
