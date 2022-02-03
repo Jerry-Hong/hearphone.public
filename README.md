@@ -20,10 +20,10 @@ https://hearphone.app
 5. 為什麼提交了耳機還是找不到剛提交的耳機？
   > 為了維持本站的品質，所有提交的耳機資訊，站方會先進行審核，避免有重複或錯假的資訊，同時確保資訊的完整性，以及正確的排版。
 
-## 計畫
+## 網站功能規劃
  
-- [x] 首頁 (Homepage) 🧑‍💻
-- [x] 耳機查詢系統 (Headphones Dictionary) 🧑‍💻
+- [x] 首頁 (Homepage)
+- [x] 耳機查詢系統 (Headphones Dictionary)
   - [x] 透過品牌 (By Brand)
   - [x] 透過產品名稱 (By Product Name)
   - [x] 透過價格區間 (By Price Range)
@@ -32,7 +32,7 @@ https://hearphone.app
   - [ ] 透過電阻 (By Impedance, 仍須規劃 🔖)
   - [ ] 透過靈敏度 (By Sensitivity, 仍須規劃 🔖)
   - [ ] 透過發聲原理 (By Transducer, 仍須規劃 🔖)
-- [x] 單一耳機介紹頁 (Headphone) 🧑‍💻
+- [x] 單一耳機介紹頁 (Headphone)
   - [x] 產品名稱 (Name)
   - [x] 產品價格 (Price)
   - [x] 所屬品牌 (Brand)
@@ -46,3 +46,14 @@ https://hearphone.app
   - [ ] 可試聽地點 (仍須規劃 🔖)
   - [ ] 相關評論 (仍須規劃 🔖)
 - [x] 問答集頁 (FAQ)
+- [x] 贊助頁 (Donate)
+- [ ] 繁簡轉換 (TC/SC, 仍須規劃 🔖)
+
+## 耳機資訊補完計畫
+
+- [ ] Sony
+- [ ] Sennheiser
+- [ ] Beyerdynamic
+- [ ] HiFiMan
+- [ ] AKG
+- [ ] Bose
